@@ -11,4 +11,7 @@ Tutorial 2 will be in the tutorial2 branch
 # Commands to run
 ## to trigger tutorial 1
 rackup brain_rack.ru
-## to trigger tutorail 2
+
+# Notes
+rack deals with a tuple array <br>
+[http response,hash with header info, array of response elements]
